@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, WalkersActivity</string>
+    <string name="app_name">Walkers</string>
+    <string name="menu_play">Jugar</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_options">Opciones</string>
+    <string name="menu_exit">Salir</string> 
+
+</resources>
